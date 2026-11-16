@@ -1,0 +1,33 @@
+{
+  "slug": "Vicks",
+  "name": "Vicks",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Vicks",
+  "author": "Vicks",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Vicks",
+      "name": "Vicks",
+      "description": "Experimental stereo drone voice and effects processor: nine generator algorithms (oscillator pairs, sine clusters, wavetables) through a filter, VCA and morphing delay/reverb with an in-loop frequency shifter.",
+      "tags": [
+        "Synth voice",
+        "Drone",
+        "Oscillator",
+        "Effect",
+        "Delay",
+        "Reverb",
+        "Filter",
+        "VCA",
+        "Stereo"
+      ]
+    }
+  ]
+}
